@@ -1,0 +1,16 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.14.149",
+    "@types/node": "^13.9.2",
+    "@types/screeps": "^3.0.0"
+  }
+}
